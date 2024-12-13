@@ -4,7 +4,7 @@ import { i18n } from './i18n-config'
 
 export function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname
-  if(pathname === '/Logo-removebg-preview.png' || pathname === '/Rami.jpg' || pathname === '/karim.jpg' || pathname === '/Ramy.jpg') {
+  if(pathname === '/Logo-removebg-preview.png' || pathname === '/Rami.jpg' || pathname === '/karim.jpg' || pathname === '/Ramy.jpg' || pathname === '/sitemap') {
     return
   }
   // Check if the pathname is the root path
