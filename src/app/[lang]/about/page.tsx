@@ -11,17 +11,17 @@ export default async function AboutPage({ params: { lang } }: { params: { lang: 
     {
       name: "Leghrib Rami",
       role: "Co-Founder & CEO",
-      image: "/placeholder-user.jpg" // Replace with actual image
+      image: "/Rami.jpg" // Replace with actual image
     },
     {
       name: "Karim Iarkane",
       role: "Co-Founder & CTO",
-      image: "/placeholder-user.jpg" // Replace with actual image
+      image: "/karim.jpg" // Replace with actual image
     },
     {
       name: "Bouchareb Ramy",
       role: "Co-Founder & Creative Director",
-      image: "/placeholder-user.jpg" // Replace with actual image
+      image: "/Ramy.jpg" // Replace with actual image
     }
   ]
 
