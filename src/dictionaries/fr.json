@@ -1,0 +1,167 @@
+{
+  "home": {
+    "title": "Services d'Impression Professionnels",
+    "description": "Solutions d'impression à la demande de qualité pour tous vos besoins. Des roll-ups aux t-shirts personnalisés, nous donnons vie à vos idées.",
+    "getQuote": "Obtenir un Devis",
+    "viewWork": "Voir Notre Travail"
+  },
+  "services": {
+    "title": "Nos Services",
+    "description": "Découvrez notre gamme de services d'impression de haute qualité adaptés à vos besoins.",
+    "rollups": {
+      "title": "Roll-ups & Bannières",
+      "description": "Bannières et roll-ups de haute qualité parfaits pour les événements et les promotions"
+    },
+    "stickers": {
+      "title": "Autocollants Personnalisés",
+      "description": "Autocollants découpés dans n'importe quelle forme ou taille pour votre marque"
+    },
+    "tshirts": {
+      "title": "Impression de T-shirts",
+      "description": "Impression de t-shirts personnalisés pour particuliers et entreprises"
+    },
+    "businessCards": "Cartes de Visite",
+    "largeFormat": "Impression Grand Format",
+    "getQuote": "Obtenir un devis",
+    "tshirts_desc": "T-shirts personnalisés adaptés à un usage personnel, professionnel et événementiel avec des techniques d'impression premium.",
+    "tshirts_short_desc": "Impression de t-shirts personnalisés de qualité premium pour toutes les occasions.",
+    "stickers_desc": "Autocollants personnalisés durables et vibrants pour le branding, l'emballage ou les projets personnels.",
+    "stickers_short_desc": "Autocollants personnalisés pour le branding et les projets personnels.",
+    "rollups_desc": "Roll-ups et bannières professionnels idéaux pour la publicité, les événements et les promotions.",
+    "rollups_short_desc": "Roll-ups et bannières de haute qualité pour les promotions."
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "description": "Nous sommes là pour vous aider avec tous vos besoins d'impression. Contactez-nous dès aujourd'hui.",
+    "phone": {
+      "title": "Téléphone"
+    },
+    "email": {
+      "title": "E-mail"
+    },
+    "address": {
+      "title": "Adresse"
+    },
+    "formTitle": "Envoyez-nous un message",
+    "formDescription": "Remplissez le formulaire ci-dessous et nous vous répondrons dès que possible.",
+    "nameLabel": "Nom",
+    "namePlaceholder": "Entrez votre nom",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Entrez votre email",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Entrez votre message",
+    "submitButton": "Envoyer le message"
+  },
+  "footer": {
+    "about": {
+      "title": "À propos de K2 Printing",
+      "description": "Services d'impression professionnels offrant des résultats de qualité pour tous vos besoins d'impression."
+    },
+    "quickLinks": {
+      "title": "Liens Rapides",
+      "services": "Services",
+      "portfolio": "Portfolio",
+      "about": "À propos",
+      "contact": "Contact"
+    },
+    "services": {
+      "title": "Services",
+      "rollups": "Roll-ups & Bannières",
+      "stickers": "Autocollants Personnalisés",
+      "tshirts": "Impression de T-shirts"
+    },
+    "contact": {
+      "title": "Contact"
+    },
+    "copyright": "© 2024 K2 Printing. Tous droits réservés."
+  },
+  "quote": {
+    "title": "Obtenir un Devis",
+    "description": "Remplissez le formulaire ci-dessous et nous vous fournirons un devis personnalisé pour vos besoins d'impression.",
+    "formTitle": "Demander un Devis",
+    "formDescription": "Veuillez fournir des détails sur votre projet pour un devis précis.",
+    "nameLabel": "Nom",
+    "namePlaceholder": "Entrez votre nom",
+    "emailLabel": "E-mail",
+    "emailPlaceholder": "Entrez votre e-mail",
+    "phoneLabel": "Téléphone",
+    "phonePlaceholder": "Entrez votre numéro de téléphone",
+    "serviceLabel": "Service",
+    "servicePlaceholder": "Sélectionnez un service",
+    "detailsLabel": "Détails du Projet",
+    "detailsPlaceholder": "Veuillez fournir des détails sur votre projet, y compris les quantités, les tailles et toutes les exigences spécifiques.",
+    "submitButton": "Demander un Devis",
+    "otherService": "Autre"
+  },
+  "portfolio": {
+    "title": "Notre Portfolio",
+    "description": "Explorez notre large gamme de projets d'impression et constatez la qualité de notre travail.",
+    "item1": "Package de Marque d'Entreprise",
+    "item1Description": "Package de marque complet comprenant cartes de visite, papier à en-tête et matériel promotionnel",
+    "item2": "Conception de Bannière d'Événement",
+    "item2Description": "Conception et impression de bannières grand format pour événements d'entreprise",
+    "item3": "Série de T-shirts Personnalisés",
+    "item3Description": "Designs de t-shirts personnalisés pour équipes sportives locales et événements",
+    "item4": "Collection d'Étiquettes de Produits",
+    "item4Description": "Designs d'étiquettes de produits pour une entreprise alimentaire artisanale locale",
+    "item5": "Graphiques de Stand pour Salon Professionnel",
+    "item5Description": "Package complet de graphiques pour stand d'exposition",
+    "item6": "Conception de Menu de Restaurant",
+    "item6Description": "Conception et impression de menus pour restaurants haut de gamme"
+  },
+  "blog": {
+    "title": "Blog K2 Printing",
+    "description": "Restez informé des dernières tendances, astuces et perspectives dans l'industrie de l'impression.",
+    "post1": {
+      "title": "L'Avenir de la Technologie d'Impression",
+      "excerpt": "Explorez les dernières avancées en technologie d'impression et comment elles façonnent l'industrie."
+    },
+    "post2": {
+      "title": "Pratiques d'Impression Durables",
+      "excerpt": "Apprenez les méthodes d'impression écologiques et comment réduire votre impact environnemental."
+    },
+    "post3": {
+      "title": "Choisir le Bon Papier pour Votre Projet",
+      "excerpt": "Un guide complet pour sélectionner le type de papier parfait pour divers besoins d'impression."
+    },
+    "post4": {
+      "title": "Astuces de Design pour des Cartes de Visite Efficaces",
+      "excerpt": "Découvrez comment créer des cartes de visite qui laissent une impression durable."
+    },
+    "post5": {
+      "title": "L'Art de la Gestion des Couleurs en Impression",
+      "excerpt": "Comprendre les profils de couleurs et assurer la cohérence à travers différents supports d'impression."
+    },
+    "post6": {
+      "title": "Maximiser le ROI avec le Marketing Imprimé",
+      "excerpt": "Stratégies pour tirer parti des supports imprimés dans vos campagnes marketing pour de meilleurs résultats."
+    },
+    "readMore": "Lire la suite"
+  },
+  "about": {
+    "title": "À Propos de K2 Printing",
+    "description": "Fournir des solutions d'impression de qualité avec une passion pour l'excellence.",
+    "history": "K2 Printing est à l'avant-garde de l'industrie de l'impression depuis plus d'une décennie. Notre engagement envers la qualité, l'innovation et la satisfaction client a fait de nous un partenaire de confiance pour les entreprises et les particuliers.",
+    "teamImageAlt": "L'équipe K2 Printing",
+    "missionTitle": "Notre Mission",
+    "missionDescription": "Fournir des solutions d'impression de premier ordre qui aident nos clients à donner vie à leurs idées, tout en maintenant les plus hauts standards de qualité et de service client.",
+    "whyChooseUsTitle": "Pourquoi Nous Choisir ?",
+    "technology": "Technologie de Pointe",
+    "technologyDescription": "Nous investissons dans les dernières technologies d'impression pour garantir des résultats de la plus haute qualité.",
+    "expertTeam": "Équipe d'Experts",
+    "expertTeamDescription": "Nos professionnels qualifiés apportent des années d'expérience à chaque projet.",
+    "customerSatisfaction": "Satisfaction Client",
+    "customerSatisfactionDescription": "Nous allons au-delà pour nous assurer que nos clients sont satisfaits du produit final.",
+    "quickTurnaround": "Délai d'Exécution Rapide",
+    "quickTurnaroundDescription": "Nous comprenons l'importance des délais et nous nous efforçons de livrer rapidement.",
+    "ourFounders": "Nos Fondateurs"
+  },
+  "nav": {
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "about": "À propos",
+    "blog": "Blog",
+    "contact": "Contactez-nous",
+    "getQuote": "Obtenir un devis"
+  }
+}

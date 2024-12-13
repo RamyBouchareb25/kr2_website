@@ -1,0 +1,167 @@
+{
+  "home": {
+    "title": "Professional Printing Services",
+    "description": "Quality on-demand printing solutions for all your needs. From roll-ups to custom t-shirts, we bring your ideas to life.",
+    "getQuote": "Get a Quote",
+    "viewWork": "View Our Work"
+  },
+  "services": {
+    "title": "Our Services",
+    "description": "Discover our range of high-quality printing services tailored to meet your needs.",
+    "rollups": {
+      "title": "Roll-ups & Banners",
+      "description": "High-quality banners and roll-ups perfect for events and promotions"
+    },
+    "stickers": {
+      "title": "Custom Stickers",
+      "description": "Die-cut stickers in any shape or size for your brand"
+    },
+    "tshirts": {
+      "title": "T-Shirt Printing",
+      "description": "Custom t-shirt printing for individuals and businesses"
+    },
+    "businessCards": "Business Cards",
+    "largeFormat": "Large Format Printing",
+    "getQuote": "Get Quote",
+    "tshirts_desc": "Custom t-shirts tailored for personal use, businesses, and events with premium printing techniques.",
+    "tshirts_short_desc": "Premium custom t-shirt printing for all occasions.",
+    "stickers_desc": "Durable, vibrant custom stickers for branding, packaging, or personal projects.",
+    "stickers_short_desc": "Custom stickers for branding and personal projects.",
+    "rollups_desc": "Professional roll-ups and banners ideal for advertising, events, and promotions.",
+    "rollups_short_desc": "High-quality roll-ups and banners for promotions."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "We're here to help with all your printing needs. Get in touch with us today.",
+    "phone": {
+      "title": "Phone"
+    },
+    "email": {
+      "title": "Email"
+    },
+    "address": {
+      "title": "Address"
+    },
+    "formTitle": "Send us a message",
+    "formDescription": "Fill out the form below and we'll get back to you as soon as possible.",
+    "nameLabel": "Name",
+    "namePlaceholder": "Enter your name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Enter your email",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Enter your message",
+    "submitButton": "Send Message"
+  },
+  "footer": {
+    "about": {
+      "title": "About K2 Printing",
+      "description": "Professional printing services delivering quality results for all your printing needs."
+    },
+    "quickLinks": {
+      "title": "Quick Links",
+      "services": "Services",
+      "portfolio": "Portfolio",
+      "about": "About",
+      "contact": "Contact"
+    },
+    "services": {
+      "title": "Services",
+      "rollups": "Roll-ups & Banners",
+      "stickers": "Custom Stickers",
+      "tshirts": "T-Shirt Printing"
+    },
+    "contact": {
+      "title": "Contact"
+    },
+    "copyright": "© 2024 K2 Printing. All rights reserved."
+  },
+  "quote": {
+    "title": "Get a Quote",
+    "description": "Fill out the form below and we'll provide you with a custom quote for your printing needs.",
+    "formTitle": "Request a Quote",
+    "formDescription": "Please provide details about your project for an accurate quote.",
+    "nameLabel": "Name",
+    "namePlaceholder": "Enter your name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Enter your email",
+    "phoneLabel": "Phone",
+    "phonePlaceholder": "Enter your phone number",
+    "serviceLabel": "Service",
+    "servicePlaceholder": "Select a service",
+    "detailsLabel": "Project Details",
+    "detailsPlaceholder": "Please provide details about your project, including quantities, sizes, and any specific requirements.",
+    "submitButton": "Request Quote",
+    "otherService": "Other"
+  },
+  "portfolio": {
+    "title": "Our Portfolio",
+    "description": "Explore our diverse range of printing projects and see the quality of our work.",
+    "item1": "Corporate Branding Package",
+    "item1Description": "Complete branding package including business cards, letterheads, and promotional materials",
+    "item2": "Event Banner Design",
+    "item2Description": "Large format banner design and printing for corporate events",
+    "item3": "Custom T-Shirt Series",
+    "item3Description": "Custom t-shirt designs for local sports teams and events",
+    "item4": "Product Label Collection",
+    "item4Description": "Product label designs for a local artisanal food company",
+    "item5": "Trade Show Booth Graphics",
+    "item5Description": "Complete trade show booth graphics package",
+    "item6": "Restaurant Menu Design",
+    "item6Description": "Menu design and printing for upscale restaurants"
+  },
+  "blog": {
+    "title": "K2 Printing Blog",
+    "description": "Stay updated with the latest trends, tips, and insights in the printing industry.",
+    "post1": {
+      "title": "The Future of Printing Technology",
+      "excerpt": "Explore the latest advancements in printing technology and how they're shaping the industry."
+    },
+    "post2": {
+      "title": "Sustainable Printing Practices",
+      "excerpt": "Learn about eco-friendly printing methods and how to reduce your environmental impact."
+    },
+    "post3": {
+      "title": "Choosing the Right Paper for Your Project",
+      "excerpt": "A comprehensive guide to selecting the perfect paper type for various printing needs."
+    },
+    "post4": {
+      "title": "Design Tips for Effective Business Cards",
+      "excerpt": "Discover how to create business cards that leave a lasting impression."
+    },
+    "post5": {
+      "title": "The Art of Color Management in Printing",
+      "excerpt": "Understanding color profiles and ensuring consistency across different printing mediums."
+    },
+    "post6": {
+      "title": "Maximizing ROI with Print Marketing",
+      "excerpt": "Strategies for leveraging print materials in your marketing campaigns for better results."
+    },
+    "readMore": "Read More"
+  },
+  "about": {
+    "title": "About K2 Printing",
+    "description": "Delivering quality printing solutions with a passion for excellence.",
+    "history": "K2 Printing has been at the forefront of the printing industry for over a decade. Our commitment to quality, innovation, and customer satisfaction has made us a trusted partner for businesses and individuals alike.",
+    "teamImageAlt": "K2 Printing Team",
+    "missionTitle": "Our Mission",
+    "missionDescription": "To provide top-notch printing solutions that help our clients bring their ideas to life, while maintaining the highest standards of quality and customer service.",
+    "whyChooseUsTitle": "Why Choose Us?",
+    "technology": "Cutting-edge Technology",
+    "technologyDescription": "We invest in the latest printing technology to ensure the highest quality results.",
+    "expertTeam": "Expert Team",
+    "expertTeamDescription": "Our skilled professionals bring years of experience to every project.",
+    "customerSatisfaction": "Customer Satisfaction",
+    "customerSatisfactionDescription": "We go above and beyond to ensure our clients are happy with the final product.",
+    "quickTurnaround": "Quick Turnaround",
+    "quickTurnaroundDescription": "We understand the importance of deadlines and strive for timely delivery.",
+    "ourFounders": "Our Founders"
+  },
+  "nav": {
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "blog": "Blog",
+    "contact": "Contact Us",
+    "getQuote": "Get Quote"
+  }
+}
