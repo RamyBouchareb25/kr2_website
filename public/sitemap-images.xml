@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Sitemap for Images -->
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+      <loc>https://www.kr2print.com/products</loc>
+      <image:image>
+        <image:loc>https://www.kr2print.com/images/product1.jpg</image:loc>
+        <image:caption>High-quality printing product 1</image:caption>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.kr2print.com/images/product2.jpg</image:loc>
+        <image:caption>Custom printing product 2</image:caption>
+      </image:image>
+    </url>
+    <url>
+      <loc>https://www.kr2print.com/services</loc>
+      <image:image>
+        <image:loc>https://www.kr2print.com/images/service1.jpg</image:loc>
+        <image:caption>Expert printing services</image:caption>
+      </image:image>
+    </url>
+  </urlset>
+</sitemapindex>
