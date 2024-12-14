@@ -20,9 +20,10 @@ export function SiteHeader({ lang }: { lang: Locale }) {
 
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
-      <div className="container flex h-16 items-center justify-between">
+      <div className="container max-sm:px-4 m-auto flex h-16 items-center justify-between">
         <Link href={`/${lang}`} className="mr-6 flex items-center space-x-2">
-          <Image src="/Logo-removebg-preview.png" alt="K2 Printing" width={48} height={48} className="h-12 w-auto" />
+          <Image src="/Logo-removebg-preview.png" alt="K2 Printing" width={48} height={48} className="h-12 w-auto dark:hidden" />
+          <Image src="/Logo-dark.png" alt="K2 Printing" width={48} height={48} className="h-12 w-auto hidden dark:block" />
         </Link>
         <MainNav lang={lang} className="hidden md:flex mx-auto" />
         <div className="flex items-center space-x-4">

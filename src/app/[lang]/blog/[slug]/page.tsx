@@ -23,16 +23,16 @@ async function getBlogPost(slug: string) {
         <p>The future of printing is also green. New eco-friendly inks, recycled papers, and energy-efficient printers are reducing the environmental impact of the printing industry. Many companies are now offering carbon-neutral printing options.</p>
         
         <h2>Conclusion</h2>
-        <p>As we look to the future, it's clear that the printing industry will continue to evolve and innovate. At K2 Printing, we're committed to staying at the forefront of these technological advancements, ensuring that we can offer our clients the most cutting-edge printing solutions available.</p>
+        <p>As we look to the future, it's clear that the printing industry will continue to evolve and innovate. At KR2 Printing, we're committed to staying at the forefront of these technological advancements, ensuring that we can offer our clients the most cutting-edge printing solutions available.</p>
       `,
       date: '2024-03-15',
-      image: "https://picsum.photos/seed/printing-tech/800/600"
+      image: "/images/TheFutureofPrintingTechnology.jpg"
     },
     {
       slug: 'sustainable-printing-practices',
       title: 'Sustainable Printing Practices',
       content: `
-        <p>In an era of increasing environmental awareness, the printing industry is making significant strides towards sustainability. At K2 Printing, we're committed to adopting and promoting eco-friendly printing practices. Here's how we're making a difference:</p>
+        <p>In an era of increasing environmental awareness, the printing industry is making significant strides towards sustainability. At KR2 Printing, we're committed to adopting and promoting eco-friendly printing practices. Here's how we're making a difference:</p>
         
         <h2>Eco-Friendly Inks</h2>
         <p>We've transitioned to using soy-based and other vegetable-based inks. These inks are not only more environmentally friendly in their production, but they also make it easier to recycle paper products. They produce vibrant colors and are less likely to release volatile organic compounds (VOCs) during the printing process.</p>
@@ -53,16 +53,16 @@ async function getBlogPost(slug: string) {
         <p>Instead of solvent-based varnishes, we use water-based coatings. These provide the same protective and aesthetic benefits while being more environmentally friendly and easier to de-ink during the recycling process.</p>
         
         <h2>Conclusion</h2>
-        <p>Sustainable printing is not just about being environmentally responsible; it's about providing our clients with high-quality products that they can feel good about. At K2 Printing, we're constantly exploring new ways to reduce our environmental impact without compromising on quality. Join us in our commitment to sustainable printing!</p>
+        <p>Sustainable printing is not just about being environmentally responsible; it's about providing our clients with high-quality products that they can feel good about. At KR2 Printing, we're constantly exploring new ways to reduce our environmental impact without compromising on quality. Join us in our commitment to sustainable printing!</p>
       `,
       date: '2024-03-10',
-      image: "https://picsum.photos/seed/eco-printing/800/600"
+      image: "/images/SustainablePrintingPractices.jpg"
     },
     {
       slug: 'choosing-the-right-paper-for-your-project',
       title: 'Choosing the Right Paper for Your Project',
       content: `
-        <p>The choice of paper can make or break your printing project. At K2 Printing, we understand the importance of selecting the right paper for each unique job. Here's a guide to help you make the best choice for your next printing project:</p>
+        <p>The choice of paper can make or break your printing project. At KR2 Printing, we understand the importance of selecting the right paper for each unique job. Here's a guide to help you make the best choice for your next printing project:</p>
 
         <h2>Understanding Paper Weight</h2>
         <p>Paper weight is typically measured in GSM (grams per square meter). The higher the GSM, the thicker and more durable the paper. For example:</p>
@@ -87,10 +87,10 @@ async function getBlogPost(slug: string) {
         <p>Think about the purpose of your printed material. Will it be handled frequently? Does it need to be durable? Is color accuracy crucial? These factors will guide your paper choice.</p>
 
         <h2>Conclusion</h2>
-        <p>Choosing the right paper is an art and a science. At K2 Printing, we're here to help you navigate these choices to ensure your printed materials look and feel exactly as you envision. Don't hesitate to reach out for personalized advice on your next project!</p>
+        <p>Choosing the right paper is an art and a science. At KR2 Printing, we're here to help you navigate these choices to ensure your printed materials look and feel exactly as you envision. Don't hesitate to reach out for personalized advice on your next project!</p>
       `,
       date: '2024-03-05',
-      image: "https://picsum.photos/seed/paper-choice/800/600"
+      image: "/images/ChoosingtheRightPaperforYourProject.jpg"
     }
   ]
 

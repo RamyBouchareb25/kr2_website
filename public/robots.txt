@@ -1,5 +1,5 @@
-# K2 Printing Services robots.txt
-# https://www.k2print.com
+# KR2 Printing Services robots.txt
+# https://www.kr2print.com
 
 # Allow all crawlers
 User-agent: *
@@ -37,10 +37,10 @@ Allow: /*.jpg$
 Allow: /*.gif$
 
 # Sitemaps
-Sitemap: https://www.k2print.com/sitemap.xml
-Sitemap: https://www.k2print.com/sitemap-images.xml
-Sitemap: https://www.k2print.com/sitemap-products.xml
+Sitemap: https://www.kr2print.com/sitemap.xml
+Sitemap: https://www.kr2print.com/sitemap-images.xml
+Sitemap: https://www.kr2print.com/sitemap-products.xml
 
 # Host directive (useful for sites with multiple domains)
-Host: https://www.k2print.com
+Host: https://www.kr2print.com
 

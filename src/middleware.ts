@@ -6,6 +6,8 @@ export function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
   if (
     pathname === "/Logo-removebg-preview.png" ||
+    pathname === "/Logo-dark.png" ||
+    pathname.startsWith("/images") ||
     pathname === "/Rami.jpg" ||
     pathname === "/karim.jpg" ||
     pathname === "/Ramy.jpg" ||
@@ -16,6 +18,7 @@ export function middleware(request: NextRequest) {
   ) {
     return;
   }
+  
   // Check if the pathname is the root path
   if (pathname === "/") {
     // Redirect to the default language (English)

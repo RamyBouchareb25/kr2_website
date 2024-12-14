@@ -10,17 +10,17 @@ export default async function AboutPage({ params: { lang } }: { params: { lang: 
   const founders = [
     {
       name: "Leghrib Rami",
-      role: "Co-Founder & CEO",
+      role: "Co-Founder",
       image: "/Rami.jpg" // Replace with actual image
     },
     {
       name: "Karim Iarkane",
-      role: "Co-Founder & CTO",
+      role: "Co-Founder",
       image: "/karim.jpg" // Replace with actual image
     },
     {
       name: "Bouchareb Ramy",
-      role: "Co-Founder & Creative Director",
+      role: "Co-Founder",
       image: "/Ramy.jpg" // Replace with actual image
     }
   ]

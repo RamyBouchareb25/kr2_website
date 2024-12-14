@@ -13,21 +13,21 @@ export default async function BlogPage({ params: { lang } }: { params: { lang: L
       title: dict.blog.post1.title,
       excerpt: dict.blog.post1.excerpt,
       date: "2024-03-15",
-      image: "https://picsum.photos/seed/printing-tech/800/600",
+      image: "/images/TheFutureofPrintingTechnology.jpg",
       slug: "the-future-of-printing-technology"
     },
     {
       title: dict.blog.post2.title,
       excerpt: dict.blog.post2.excerpt,
       date: "2024-03-10",
-      image: "https://picsum.photos/seed/eco-printing/800/600",
+      image: "/images/SustainablePrintingPractices.jpg",
       slug: "sustainable-printing-practices"
     },
     {
       title: dict.blog.post3.title,
       excerpt: dict.blog.post3.excerpt,
       date: "2024-03-05",
-      image: "https://picsum.photos/seed/paper-choice/800/600",
+      image: "/images/ChoosingtheRightPaperforYourProject.jpg",
       slug: "choosing-the-right-paper-for-your-project"
     }
   ]

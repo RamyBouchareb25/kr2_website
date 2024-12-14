@@ -9,34 +9,34 @@ export default async function PortfolioPage({ params: { lang } }: { params: { la
   const portfolioItems = [
     { 
       title: dict.portfolio.item1, 
-      image: "https://picsum.photos/seed/branding/600/400",
+      image: "/images/Branding.jpg",
       description: dict.portfolio.item1Description
     },
     { 
       title: dict.portfolio.item2, 
-      image: "https://picsum.photos/seed/banner/600/400",
+      image: "/images/Banner.jpg",
       description: dict.portfolio.item2Description
     },
     { 
       title: dict.portfolio.item3, 
-      image: "https://picsum.photos/seed/tshirt/600/400",
+      image: "/images/shirt.webp",
       description: dict.portfolio.item3Description
     },
-    { 
-      title: dict.portfolio.item4, 
-      image: "https://picsum.photos/seed/labels/600/400",
-      description: dict.portfolio.item4Description
-    },
-    { 
-      title: dict.portfolio.item5, 
-      image: "https://picsum.photos/seed/booth/600/400",
-      description: dict.portfolio.item5Description
-    },
-    { 
-      title: dict.portfolio.item6, 
-      image: "https://picsum.photos/seed/menu/600/400",
-      description: dict.portfolio.item6Description
-    },
+    // { 
+    //   title: dict.portfolio.item4, 
+    //   image: "https://picsum.photos/seed/labels/600/400",
+    //   description: dict.portfolio.item4Description
+    // },
+    // { 
+    //   title: dict.portfolio.item5, 
+    //   image: "https://picsum.photos/seed/booth/600/400",
+    //   description: dict.portfolio.item5Description
+    // },
+    // { 
+    //   title: dict.portfolio.item6, 
+    //   image: "https://picsum.photos/seed/menu/600/400",
+    //   description: dict.portfolio.item6Description
+    // },
   ]
 
   return (

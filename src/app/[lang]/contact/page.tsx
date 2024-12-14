@@ -86,6 +86,8 @@ export default function ContactPage({ params: { lang } }: { params: { lang: Loca
                     <div>
                       <h3 className="font-semibold">{dict.contact?.phone.title}</h3>
                       <p className="text-sm text-gray-500 dark:text-gray-400">+213 783 111 071</p>
+                      <p className="text-sm text-gray-500 dark:text-gray-400">+213 559 894 496</p>
+                      <p className="text-sm text-gray-500 dark:text-gray-400">+213 794 724 007</p>
                     </div>
                   </CardContent>
                 </Card>
@@ -94,6 +96,7 @@ export default function ContactPage({ params: { lang } }: { params: { lang: Loca
                     <Mail className="h-5 w-5" />
                     <div>
                       <h3 className="font-semibold">{dict.contact?.email.title}</h3>
+                      <p className="text-sm text-gray-500 dark:text-gray-400">hello@kr2print.com</p>
                       <p className="text-sm text-gray-500 dark:text-gray-400">kr2printdz@gmail.com</p>
                     </div>
                   </CardContent>
