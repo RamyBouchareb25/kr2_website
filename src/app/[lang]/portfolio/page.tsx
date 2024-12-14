@@ -19,7 +19,7 @@ export default async function PortfolioPage({ params: { lang } }: { params: { la
     },
     { 
       title: dict.portfolio.item3, 
-      image: "/images/shirt.jpg",
+      image: "/images/shirt.jpeg",
       description: dict.portfolio.item3Description
     },
     // { 
