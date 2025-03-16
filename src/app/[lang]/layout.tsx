@@ -6,6 +6,7 @@ import { i18n, Locale } from "@/i18n-config";
 import { SiteHeader } from "@/components/site-header";
 import { Toaster } from "@/components/ui/toaster";
 import Footer from "@/components/footer";
+import { GoogleAnalytics } from '@next/third-parties/google'
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -114,6 +115,8 @@ export default async function RootLayout({
             <SiteHeader lang={params.lang} />
             <main className="flex-grow container mx-auto px-4 sm:px-6 lg:px-8">
               {children}
+              <GoogleAnalytics gaId="G-XYZ" />
+
             </main>
           </div>
           <div className="flex flex-col">
