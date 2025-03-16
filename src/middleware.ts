@@ -14,6 +14,7 @@ export function middleware(request: NextRequest) {
     pathname === "/sitemap.xml" ||
     pathname === "/sitemap-images.xml" ||
     pathname === "/robots.txt" ||
+    pathname === "/.well-known/assetlinks.json" ||
     pathname === "/sitemap-products.xml"
   ) {
     return;
