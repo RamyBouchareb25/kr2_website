@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dz.diardzair.getex",
+      "sha256_cert_fingerprints":
+      ["79:56:C8:73:97:A0:22:B7:2E:B9:AB:84:5F:1D:25:9C:56:E4:48:36:07:F9:94:BF:89:BD:D7:4A:DC:53:37:7D"]
+    }
+  }]
