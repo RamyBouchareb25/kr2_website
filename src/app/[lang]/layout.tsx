@@ -115,7 +115,7 @@ export default async function RootLayout({
             <SiteHeader lang={params.lang} />
             <main className="flex-grow container mx-auto px-4 sm:px-6 lg:px-8">
               {children}
-              <GoogleAnalytics gaId="G-XYZ" />
+              <GoogleAnalytics gaId="G-03Q37DDLVE" />
 
             </main>
           </div>
